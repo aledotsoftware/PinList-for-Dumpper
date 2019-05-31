@@ -1,2 +1,1 @@
-# PinList-for-Dumpper [![License-shield]](https://raw.githubusercontent.com/Aleavellaneda1/PinList-for-Dumpper/master/LICENSE.md) 
-
+# PinList-for-Dumpper [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
